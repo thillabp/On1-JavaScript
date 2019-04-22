@@ -1,4 +1,11 @@
- # JavaScript 
+Este é um repositório de conteúdo e atividades do curso de Desenvolvimento Front-End da {Reprograma}.
+Semana 5 - JavaScript
+
+
+
+
+
+# JavaScript 
 ## Reprograma Online T1 
 Aula 06/04/2019 |  9h às 17h
 ---
