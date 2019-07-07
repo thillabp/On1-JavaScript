@@ -7,11 +7,7 @@ Semana 5 - JavaScript
 
 ## JavaScript 
 ### Reprograma Online 
-Aula 06/04/2019 |  9h às 17h
----
-#### Objetivo:
-Entender os príncípios básicos da linguagem JavaScript necessários para manipular o DOM.
----
+
 
 #### Pra que serve o JavaScript?  
 - Para adicionar, modificar e remover elementos, atributos e estilos do documento HTML
