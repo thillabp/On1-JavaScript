@@ -5,25 +5,22 @@ Semana 5 - JavaScript
 
 
 
-# JavaScript 
-## Reprograma Online T1 
+## JavaScript 
+### Reprograma Online 
 Aula 06/04/2019 |  9h às 17h
 ---
-## Objetivo:
+#### Objetivo:
 Entender os príncípios básicos da linguagem JavaScript necessários para manipular o DOM.
 ---
-## Recursos necessários:
-- Navegador Chrome
-- Visual Studio Code
----
-## Pra que serve o JavaScript?  
+
+#### Pra que serve o JavaScript?  
 - Para adicionar, modificar e remover elementos, atributos e estilos do documento HTML
 
 - Para realizar ações a partir de eventos, podendo também adicionar eventos e modificá-los
 
 - Resumindo: para dar vida à sua página!
 
-## Entendendo os objetos
+#### Entendendo os objetos
 Objetos são coleções de dados e/ou funcionalidades relacionadas, que são  respectivamente chamadas de propriedades e métodos.
 
 Representação de um objeto:
@@ -46,7 +43,7 @@ var pessoa = {
 };
 ```
 
-## O que é o DOM?
+#### O que é o DOM?
 
 - DOM é uma sigla que significa **D**ocument **O**bject **M**odel.
 
@@ -61,7 +58,7 @@ var pessoa = {
   - Attributes - são os todos atributos para um nó específico. No caso, o attribute class="HERO" está associado ao elemento `<p>`, outros exemplos de atributos são o href, o id, entre outros.
 
 
-## Métodos para manipular o DOM
+#### Métodos para manipular o DOM
 
 `getElementById()`- Retorna o elemento que estiver contendo o nome do ID passado. Como os IDs devem ser únicos, é um método muito útil para pegar apenas o elemento desejado.
 
@@ -74,7 +71,7 @@ var pessoa = {
 `querySelectorAll()` - semelhante ao querySelector(), só que retorna todos os elementos que se equiparam ao seletor
 >Exercício: DOM
 
-## Revisando Funções 
+#### Revisando Funções 
 
 Funções são blocos de código contendo uma ou mais instruções que executa uma tarefa ou calcula um valor. Para usar uma função, você deve defini-la em algum lugar.
 
@@ -85,7 +82,7 @@ function nomeFuncao(){
 }
 ```
 
-## Escutando eventos
+#### Escutando eventos
 
 Com JS é possível criar interatividades com os elementos da página, para isso nós podemos adicionar um escutador de eventos. 
 
@@ -101,7 +98,7 @@ Os dois principais parâmetros do addEventListener() são:
 >Exercício: DOM (+ Botão)
 
 
-## Manipulando estilo e classes
+#### Manipulando estilo e classes
 `className` - acessa a propriedade de classe e atribui o valor que foi passado
 `classList` - acessa a lista de classes de um elemento
 `classList.contains()` - verifica se elemento contem a classe passada
@@ -110,7 +107,7 @@ Os dois principais parâmetros do addEventListener() são:
 >Exercício: Menu e Modal
 
 
-## Criação de elementos no HTML
+#### Criação de elementos no HTML
 
 `createElement` - cria um elemento HTML
 `createTextNode` - criar um nó de texto para o elemento
@@ -119,7 +116,7 @@ Os dois principais parâmetros do addEventListener() são:
 >Ex: Lista de gastos
 
 
-## Validando valores de inputs
+#### Validando valores de inputs
 Coletar valores de inputs 
 
 Verificar se atendem aos critérios
